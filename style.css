@@ -1,0 +1,128 @@
+.first{display: flex; }
+.aa{margin-left:30px;}
+.one{margin-left:500px;}
+.a{color: black; text-decoration: none; font-family:Calibre, system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Segoe UI", "Lucida Grande", "Helvetica Neue", Helvetica, "Fira Sans", Roboto, Noto, "Droid Sans", Cantarell, Oxygen, Ubuntu, "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;font-weight:22px;font-size:16px;}
+.two{margin-left:30px;}
+.three{margin-left: 30px;}
+.four{margin-left:30px;}
+.five{margin-left:30px;}
+.six{margin-left:15px;}
+.seven{margin-top:5px; padding-bottom: 20px; margin-left:35px;}
+.b{color: white;text-decoration:none;}
+button{background-color:#e03131;border:2px;padding:10px;  width:130px;height:46px;}
+h1{text-align: center;font-size:47px;font-weight: 10px;font-family: Arial, Helvetica, sans-serif;}
+.and{text-align: center;font-size: 19px ;font-weight: ;font-family: Arial, Helvetica, sans-serif; line-height: 30.4px; }
+.bot{color: #e03131;}
+h2{margin-left:300px;font-size:24px;font-weight: 10px;font-family: Arial, Helvetica, sans-serif;}
+.me{margin-left: 300px;font-size: 19px;font-weight:;font-family: Arial, Helvetica, sans-serif;line-height:30.4px ; }
+.pink{display: flex}
+.red{color: #e03131;margin-left: 300px;font-size: 19px;font-family: Arial, Helvetica, sans-serif; line-height: 30.4px;margin-top:10px;}
+.dash{margin-left: 60px; width: 10px;}
+.date{ margin-left:10px;}
+.book{margin-left:30px;}
+.ruby{color: #e03131; font-size:12px;}
+.comma{color: black; margin-right: 10px;}
+.dd{width:10px; margin-left:10px;}
+.new{margin-left: 300px; color: #e03131;font-size: 12px;}
+.kelly{margin-left:20px;color: #e03131;font-size:12px;}
+.number{display: flex;}
+.black{margin-left:500px; color: black; font-family: Arial, Helvetica, sans-serif; }
+.redd{margin-left: 5px;color: #e03131;}
+.extrame{margin-left:360px;font-size: 19px; font-family: Arial, Helvetica, sans-serif;}
+form{margin-left:290px;}
+.in{width:420px;height: 30px;}
+.botin{background-color: #e03131; border:2px;height:37px;color: white;}
+.d{color: black;text-decoration: none;}
+
+
+
+@media screen and (max-width: 490px)
+ { .first{display:block;}
+.one{margin-left:500px; display: none;}
+.seven{margin-top:5px; padding-bottom: 20px; margin-left:35px; display: none;}
+.two{margin-left:30px; display: none;}
+    .aa{margin-left:10px; margin-bottom: 80px;}
+
+.three{margin-left: 30px;display: none;}
+.four{margin-left:30px; display: none;}
+.five{margin-left:30px;display: none;}
+.six{margin-left:15px;display: none;}
+
+
+ h1{
+     
+    font-size:35px;
+    font-weight: 10px;
+     line-height: 40px; 
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 40px;
+text-align: left;
+}
+.and{margin-left: 0px;
+    font-size: 19px ;
+    font-weight: ;font-family: Arial, Helvetica, sans-serif;
+     line-height: 30.4px;
+    text-align: left;
+margin-top: 40px;
+ }
+     h2{margin-left:0px;
+        font-size:24px;
+        font-weight: 10px;
+        font-family: Arial, Helvetica, sans-serif;}
+        .me{margin-left: 0px;
+            font-size: 19px;
+            font-weight:;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height:30.4px ; 
+        }
+        .red{color: #e03131;
+            margin-left: 0px;
+            font-size: 19px;
+            font-family: Arial, Helvetica, sans-serif; 
+            line-height: 30,4px;
+             ;margin-top:10px;}
+             .dash{margin-left: 10px;width: 10px;
+                display:none;}
+                .date{ margin-right:5px;}
+                .book{margin-left:0px;}
+                .ruby{color: #e03131; font-size:12px;}
+                .comma{color: black; margin-right: 0px ;}
+                .pink{display: block}
+                .dd{width:10px; 
+                    margin-left:10px;
+                     display: none;}
+                .new{margin-left: 0px;
+                     color: #e03131;
+                     font-size: 12px;}
+                .kelly{margin-left:20px;color: #e03131;font-size:12px;}
+                .number{display: flex;margin-left: 40px;}
+.black{margin-left:0px; color: black; font-family: Arial, Helvetica, sans-serif; }
+.redd{margin-left: 5px;color: #e03131;}
+.extrame{font-size: 19px; font-family: Arial, Helvetica, sans-serif;margin-left: 20px;justify-content: center;}
+form{margin-left:0px;}
+.in{width:280px;height: 30px;justify-content: center;}
+.botin{background-color: #e03131; border:2px;height:37px;color: white;width:260px;}
+.d{color: black;text-decoration: none;}
+
+                        
+                
+            }
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+
+
+
